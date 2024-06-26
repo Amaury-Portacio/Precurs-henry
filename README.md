@@ -1,2 +1,2 @@
-# Precurs-henry
-Este es un repositorio de prueba del precurso de henry
+Este Proyecto es la prueba de como crear un repositorio desde github a mi computadora 
+
